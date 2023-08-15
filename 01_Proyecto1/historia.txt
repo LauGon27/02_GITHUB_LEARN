@@ -1,1 +1,3 @@
 El objetivo de est archivo es aprender los comandos basicos de git 
+
+Las purebas como esta som utiles para este ejercicio
