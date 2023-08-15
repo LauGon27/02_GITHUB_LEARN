@@ -1,1 +1,1 @@
-El objetivo de est srchivo es aprender los comandos basicos de git 
+El objetivo de est archivo es aprender los comandos basicos de git 
